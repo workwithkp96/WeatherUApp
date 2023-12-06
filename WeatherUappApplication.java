@@ -9,7 +9,8 @@ public class WeatherUappApplication {
 	public static void main(String[] args) {
 
 		//SpringApplication.run(WeatherUappApplication.class, args);
-		System.out.println("this is it");
+		//System.out.println("this is it");
+		System.out.println("Here is the changes");
 	}
 
 }
